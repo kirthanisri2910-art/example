@@ -1,6 +1,5 @@
-console.log("welcome")
-
+console.log("welcome to git")
 for(let i=0;i<5;i++)
 {
-   console.log("hell") 
+  console.log("welcome")  
 }
